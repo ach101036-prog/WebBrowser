@@ -1,0 +1,6 @@
+{
+  "name": "FlowBrowser",
+  "description": "Web browser that detects playing videos and saves them in MP4 format at your chosen resolution using FFmpeg in the background.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

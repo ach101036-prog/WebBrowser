@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FlowBrowser</string>
+    <string name="nav_browser">Browser</string>
+    <string name="nav_downloads">Downloads</string>
+    <string name="omnibox_placeholder">Search or enter web address</string>
+    <string name="download_mp4_fab">Download MP4</string>
+    <string name="video_playing_badge">Video Playing</string>
+    <string name="video_detected_badge">Video Ready</string>
+    <string name="sheet_title">Save Video as MP4</string>
+    <string name="sheet_subtitle">FFmpeg converts and saves in the background</string>
+    <string name="choose_resolution">Output Resolution</string>
+    <string name="choose_stream">Detected Video Streams</string>
+    <string name="filename_label">File Name</string>
+    <string name="start_background_download">Download MP4 in Background</string>
+    <string name="downloads_title">MP4 Downloads</string>
+    <string name="downloads_subtitle">Background FFmpeg jobs &amp; saved offline videos</string>
+    <string name="downloads_empty_title">No Saved MP4 Videos Yet</string>
+    <string name="downloads_empty_body">Browse any website and play a video. When FlowBrowser detects playback, tap Download MP4 and choose your resolution.</string>
+    <string name="search_downloads_placeholder">Search saved MP4 videos</string>
+    <string name="player_title">MP4 Player</string>
+    <string name="share_video">Share MP4</string>
+    <string name="delete_video">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm_delete_title">Delete Downloaded Video?</string>
+    <string name="confirm_delete_body">This will remove the saved MP4 entry and delete the local file if owned by the app.</string>
+    <string name="notification_channel_downloading">Background FFmpeg Downloads</string>
+    <string name="notification_channel_completed">Completed MP4 Downloads</string>
+    <string name="notification_completed_title">MP4 Download Complete</string>
+    <string name="open_downloads">Open Downloads</string>
+    <string name="tabs_sheet_title">Browser Tabs</string>
+    <string name="new_tab">New Tab</string>
+    <string name="bookmarks_title">Bookmarks</string>
+    <string name="desktop_mode">Desktop Site</string>
+</resources>
